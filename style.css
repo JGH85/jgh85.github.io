@@ -1,6 +1,12 @@
-.jumbotron {
+.j1 {
     background-image: url("https://boygeniusreport.files.wordpress.com/2015/08/minas-tirith-image-001.jpg?quality=98&strip=all");
     background-size: cover;
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    height:300px;
+    /* margin-top:50px; */
+
   }
 
 h1 {
@@ -10,9 +16,15 @@ h1 {
 
 #subtitle {
   color:white;
-  margin-bottom:50px;
+  /* margin-bottom:50px; */
 }
 
 body {
-  margin-top:50px;
+  /* use margin top for offset if navbar is on top */
+  /* margin-top:1px;  */
+  
+}
+
+.navbar{
+  margin-top:-50px;
 }
