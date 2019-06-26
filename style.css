@@ -1,8 +1,18 @@
 .jumbotron {
-    background-image: url("https://boygeniusreport.files.wordpress.com/2015/08/minas-tirith-image-001.jpg?quality=98&strip=all&w=782");
+    background-image: url("https://boygeniusreport.files.wordpress.com/2015/08/minas-tirith-image-001.jpg?quality=98&strip=all");
     background-size: cover;
   }
 
-.h1 {
-    color:white !important;
+h1 {
+    color:white;
+    margin-top:50px;
+}
+
+#subtitle {
+  color:white;
+  margin-bottom:50px;
+}
+
+body {
+  margin-top:50px;
 }
