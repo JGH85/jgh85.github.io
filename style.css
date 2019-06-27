@@ -1,10 +1,11 @@
 .j1 {
-    background-image: url("https://boygeniusreport.files.wordpress.com/2015/08/minas-tirith-image-001.jpg?quality=98&strip=all");
+    /* background-image: url("https://boygeniusreport.files.wordpress.com/2015/08/minas-tirith-image-001.jpg?quality=98&strip=all"); */
+    background-image: url("images/minas-tirith-image-001.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: top;
     background-repeat: no-repeat;
-    height:300px;
+    height:350px;
     /* margin-top:50px; */
 
   }
@@ -26,5 +27,13 @@ body {
 }
 
 .navbar{
-  margin-top:-50px;
+  margin-top:-88px;
+  opacity: 0.75
 }
+
+
+
+/* .copywrite{
+  margin-top:50px;
+  margin-bottom:50px;
+} */
