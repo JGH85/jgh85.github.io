@@ -8,44 +8,15 @@
     height:350px;
     opacity:.75;
     background-color: darkblue;
-    /* margin-top:50px; */
-
   }
-
-h1 {
-    color:white;
-    margin-top:50px;
-}
-
-#subtitle {
-  color:white;
-  /* margin-bottom:50px; */
-}
-
-body {
-  /* use margin top for offset if navbar is on top */
-  /* margin-top:1px;  */
-  
-}
 
 .navbar{
   margin-top:-88px;
   opacity: 0.75
 }
 
-
-
-/* .copywrite{
-  margin-top:50px;
-  margin-bottom:50px;
-} */
-
 .op5{
   opacity: .5;
-}
-
-.d1{
-  background-color:darkblue;
 }
 
 .card-img{
